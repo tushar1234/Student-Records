@@ -1,0 +1,4 @@
+CSE, Max: 9.6 ,Avg: 7.55
+MEC, Max: 9.0 ,Avg: 7.42
+ARC, Max: 9.4 ,Avg: 7.67
+ECE, Max: 9.4 ,Avg: 8.01
